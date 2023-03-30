@@ -10,6 +10,6 @@ Our current flagship projects include:
 - **Tracy**: A design space exploration tool for neural engine microarchitecture research. It employs deep reinforcement learning and is trained using a reward function, which is based on the performance and energy consumption of different microarchitecture designs. Tracy is designed to predict the performance and energy consumption of a given microarchitecture design based on user-defined input parameters for a given custom logic.
 
 Other Projects:
--**XLR8RV32**: An experimental processor designed as a baseline to benchmark new implementation generated out of *Hackframe*. 
+- **XLR8RV32**: An experimental processor designed as a baseline to benchmark new implementation generated out of *Hackframe*. 
 
 Join us as we engineer a more efficient future through state-of-the-art electronic systems design and integration.
