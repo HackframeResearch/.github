@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Hackframe is a promising startup based in Geneva, Switzerland, that aims to make hardware development and integrated circuit design more accessible to the general public, hobbyists, students, and professionals alike. With its cutting-edge technology, Hackframe is revolutionizing the field of hardware development by providing a comprehensive platform for designing, simulating, and executing code on real devices.
+Hackframe is an ambitious research oriented startup based in Geneva, Switzerland, that aims to make hardware development and integrated circuit design more accessible to the general public, hobbyists, students, and professionals alike. With its cutting-edge technology, Hackframe is working towards revolutionizing the field of hardware development by providing a comprehensive platform for designing, simulating, and executing code on real devices.
 
 At Hackframe, we believe that everyone should have access to the tools and resources needed to create and innovate in the world of hardware development. Our platform is designed to remove the barriers to entry and provide a seamless experience for users of all skill levels. The objective is to enable faster development of complex high-performance and high-reliability systems efficiently with an easy learning curve. In this document, we will explore the features and benefits of Hackframe in detail, demonstrating why investing in this innovative startup is a wise choice.
 
@@ -33,9 +33,9 @@ These and many other added benefits are the another reason why Hackframe is an a
 
 ### Investing
 
-Investing in Hackframe is an excellent opportunity for investors who are interested in the hardware development industry. By investing in Hackframe, investors can be a part of a startup that is poised to revolutionize the industry and change the way people approach hardware development. Hackframe's vision has already gained traction in the industry and academic community and has received numerous positive feedback from the interested users.
+Investing in Hackframe is an excellent opportunity for angel and seed investors who are interested in the computer hardware and semiconductor industry. By investing in Hackframe, investors can be a part of a startup that is poised to revolutionize the industry and change the way people approach hardware development. Our vision has already gained traction in the industry and academic community and has received numerous positive feedback from the interested users.
 
-Investing in Hackframe also represents an opportunity to be a part of a socially responsible company. Hackframe's platform is designed to make hardware development more accessible, which has the potential to create more opportunities for people from diverse backgrounds. By investing in Hackframe, investors can support a company that is working to create positive change in the world.
+Investing in Hackframe also represents an opportunity to be a part of a socially responsible company. Our platform is designed to make hardware development more accessible, which has the potential to create more opportunities for people from diverse backgrounds, reducing cost of training and breaking the barrier to entry in hardware development. By investing in Hackframe, investors can support a company that is working to create positive change in the world.
 
 ### Conclusion
 
