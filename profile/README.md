@@ -7,4 +7,4 @@ Our focus is on high-reliability and energy-efficient technology through archite
 
 > If you are a systems engineer with expertise in hardware and/or software development, your input will greatly assist us in engineering a better product that is more accessible and better suited to meet your requirements. Therefore, we kindly request a few minutes of your time to complete our survey. Please [click here](https://docs.google.com/forms/d/e/1FAIpQLSdoYAq-8agRYC7A3r-8lYnw8xmcA9ax6ZtiM-2ejI9OFxhRvQ/viewform?usp=sf_link) to take the survey.
 
-Join us to engineer a more compute-efficient future through state-of-the-art electronic systems design and integration. [Join our Discord Server](https://discord.gg/83dMdBmnC3)!
+Join us to engineer a more compute-efficient future through state-of-the-art electronic systems design and integration. [Join our Discord Server](https://discord.gg/YmJQHHEGRs)!
