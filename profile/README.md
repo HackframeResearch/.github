@@ -13,6 +13,6 @@ Remember, in this ever-evolving tech universe, we're the Picard to your Enterpri
 
 Live long and code better!
 
-> If you're a systems engineer wielding expertise in the mystical arts of hardware and/or software development, we really need your brainpower. So, we're beaming down a request for a wee bit of your valuable time. We've got a survey ready to go, and your insights will be as precious as a cache of dilithium crystals! Just a few minutes of your time can help us create tech that's more accessible and tuned perfectly to your needs. Ready to engage? Just click [click here](https://docs.google.com/forms/d/e/1FAIpQLSdoYAq-8agRYC7A3r-8lYnw8xmcA9ax6ZtiM-2ejI9OFxhRvQ/viewform?usp=sf_link) to get started.
+> If you're a systems engineer wielding expertise in the mystical arts of hardware and/or software development, we really need your brainpower. So, we're beaming down a request for a wee bit of your valuable time. We've got a survey ready to go, and your insights will be as precious as a cache of dilithium crystals! Just a few minutes of your time can help us create tech that's more accessible and tuned perfectly to your needs. Ready to engage? Just [click here](https://docs.google.com/forms/d/e/1FAIpQLSdoYAq-8agRYC7A3r-8lYnw8xmcA9ax6ZtiM-2ejI9OFxhRvQ/viewform?usp=sf_link) to get started.
 
-Lastly and most importantly, here's the route to join our starship community and help us warp-speed into a future where compute-efficiency isn't just a dream, it's a reality. [Join our Discord Server](https://discord.gg/YmJQHHEGRs)!
+Lastly and most importantly, here's the route to join our starship community and warp-speed into a future where compute-efficiency isn't just a dream, it's a reality. [Join our Discord Server](https://discord.gg/YmJQHHEGRs)!
