@@ -1,10 +1,18 @@
 <img align="left" width="180" src="/microchip.png" />
 
 ## XLR8 Lab
-XLR8 Research is a young and ambitious startup working on frameworks for accelerating (XLR8ing) the design of next-generation of efficient computing systems through scalable coding practices, circuit design, machine learning, integration of firmware for advanced memory systems and design of sophisticated microarchitectures to push the boundaries of technological innovation.
+Strap in and get ready for a tech-adventure of a lifetime with XLR8 Research, your fresh and fearless startup geared up to hyperdrive (or should we say, ~~accelerate~~XLR8?) the design of future-ready, ultra-efficient computing systems. We're tinkering with scalable coding practices, inventive circuit design, mind-bending machine learning, sleek integration of advanced memory systems, and sophisticated ol' microarchitectures to shatter the glass ceiling of tech innovation.
 
-Our focus is on high-reliability and energy-efficient technology through architectural design and optimization to develop innovative solutions for the ever-growing demands of modern computing. By combining expertise in multiple fields across the computing abstraction layers, we aspire to create advancements in high-performance, low-power digital and embedded systems that drives the future of computing and artificial intelligence applications.
+We're all about creating high-tech, energy-efficient systems that are as reliable as a Millennium Falcon (with fewer maintenance issues, of course!). Through intricate architectural design and optimization, we're cooking up trailblazing solutions for the ever-hungry beast of modern computing.
 
-> If you are a systems engineer with expertise in hardware and/or software development, your input will greatly assist us in engineering a better product that is more accessible and better suited to meet your requirements. Therefore, we kindly request a few minutes of your time to complete our survey. Please [click here](https://docs.google.com/forms/d/e/1FAIpQLSdoYAq-8agRYC7A3r-8lYnw8xmcA9ax6ZtiM-2ejI9OFxhRvQ/viewform?usp=sf_link) to take the survey.
+By mixing a cocktail of expertise across the computing layers, we're on a mission to boost advancements in high-performance, low-power digital, and embedded systems. Think of us as the Jedi knights of computing, forging the future of applications in computing and artificial intelligence.
 
-Join us to engineer a more compute-efficient future through state-of-the-art electronic systems design and integration. [Join our Discord Server](https://discord.gg/YmJQHHEGRs)!
+Want to stay connected with our starship? We're just a click away! Visit us in our virtual spaceport at [RTL Play](https://rtlplay.app).
+
+Remember, in this ever-evolving tech universe, we're the Picard to your Enterprise, always ready to say, "Make it so!" to the next big idea. So, keep your phasers set to 'innovate' and warp speed ready, we've got galaxies to conquer!
+
+Live long and code better!
+
+> If you're a systems engineer wielding expertise in the mystical arts of hardware and/or software development, we really need your brainpower. So, we're beaming down a request for a wee bit of your valuable time. We've got a survey ready to go, and your insights will be as precious as a cache of dilithium crystals! Just a few minutes of your time can help us create tech that's more accessible and tuned perfectly to your needs. Ready to engage? Just click [click here](https://docs.google.com/forms/d/e/1FAIpQLSdoYAq-8agRYC7A3r-8lYnw8xmcA9ax6ZtiM-2ejI9OFxhRvQ/viewform?usp=sf_link) to get started.
+
+Lastly and most importantly, here's the route to join our starship community and help us warp-speed into a future where compute-efficiency isn't just a dream, it's a reality. [Join our Discord Server](https://discord.gg/YmJQHHEGRs)!
