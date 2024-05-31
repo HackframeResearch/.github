@@ -1,4 +1,4 @@
-<img align="left" width="180" src="/microchip.png" />
+<br/><br/><img align="left" width="180" src="/microchip.png" />
 
 ## Welcome to Hackframe Research
 Strap in and get ready for a tech-adventure of a lifetime at Hackframe Research, your fresh and fearless startup geared up to hyperdrive the design of future-ready, ultra-efficient computing systems. We're tinkering with scalable coding practices, inventive circuit design, mind-bending machine learning, sleek integration of advanced memory systems, and sophisticated ol' microarchitectures to shatter the glass ceiling of tech innovation.
